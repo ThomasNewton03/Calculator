@@ -2,4 +2,6 @@
     width: 250px;
     height: 450px;
     background-color: black;
+    border: 5px grey;
+    padding: 10px;
 }
