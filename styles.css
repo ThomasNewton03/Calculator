@@ -30,6 +30,14 @@ button {
     margin-top: 10px;
 }
 
+button:hover {
+    background-color: hsl(0, 0%, 40);
+}
+
+.operator-btn {
+    background-color: hsl(35, 100%, 55);
+}
+
 #keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -41,4 +49,5 @@ button {
     font-size: 3rem;
     margin: auto;
     justify-content: center;
+    text-align: left;
 }
