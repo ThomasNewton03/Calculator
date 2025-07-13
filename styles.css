@@ -1,7 +1,18 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url("C:/Users/tjnew/Calculator/Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .box {
-    width: 250px;
-    height: 450px;
-    background-color: black;
-    border: 5px grey;
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border: 5px black;
+    border-radius: 25px;
     padding: 10px;
+    margin: auto;
 }
